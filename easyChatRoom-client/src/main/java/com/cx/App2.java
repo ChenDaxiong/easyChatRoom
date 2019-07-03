@@ -5,4 +5,5 @@ public class App2 {
  private String gitConflict2;
  private String gitConflict3;
  private String gitConflict4;
+ private String testBranch2;
 }
